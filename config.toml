@@ -127,11 +127,11 @@ enableEmoji = true
     title = "Teaching"
     url = "/teaching/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+  # [[menu.header]]
+  #  name = "Talks"
+  #  title = "Talks"
+  #  url = "/talk/"
+  #  weight = 4
   [[menu.header]]
     name = "Other Projects"
     title = "Project Portfolio"
@@ -140,7 +140,7 @@ enableEmoji = true
   [[menu.header]]
     name = "CV"
     title = "CV"
-    url = "/cv/vydhourie_cv_nov2021.pdf"
+    url = "/cv/vydhourie2_cv_nov2021.pdf"
     weight = 6
     
   # Configure footer  

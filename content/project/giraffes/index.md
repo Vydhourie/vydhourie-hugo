@@ -8,15 +8,17 @@ date: "2021-12-25"
 draft: false
 excerpt: 
 layout: single
-subtitle: I love theater — I had the privilege to work with wonderful people during my minor in Theater at Princeton University. In particular, I love acting, and playwriting. In high school, I acted, with my drama team, and competed in drama competitions, going all the way to nationals! I wrote for my school's choral speaking team for state competitions.
+subtitle: I love theater — I had the privilege to work with wonderful people during my minor in Theater at Princeton University. In particular, I love acting, and playwriting. In high school, I acted, with my drama team, and competed in drama competitions, going all the way to nationals! I also wrote for my high school's choral speaking team.
 tags:
 - hugo-site
 title: Theater & Writing for Performance
 ---
 
+## Plays/Scripts
+
 ### A Game of Inheritance
 
-I had the privilege of hearing this play exploring human rights, race, and law, acted out aloud in the Spring 2021 at Princeton University. My writing was advised by Nathan Davis.
+I had the privilege of hearing this play I wrote, advised by Nathan Davis, exploring human rights, race, and law, acted out aloud in Spring 2021 at Princeton University.
 
 ### Witchy Women
 
